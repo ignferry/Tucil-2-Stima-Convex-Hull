@@ -26,7 +26,7 @@ pip install -U scikit-learn
 3. Dalam Jupyter Notebook, navigasi ke file myConvexHull.ipynb di dalam folder src dna buka file tersebut
 4. Di bagian atas pilih menu kernel, kemudian klik Restart & Run All
 5. Pada notebook, akan terlihat grafik-grafik lengkap dengan convex hull-nya
-6. Jika ingin menggunakan dataset lain, sesuaikan kode pada bagian "Percobaan dan Demonstrasi Penggunaan myConvexHull"
+6. Jika ingin menggunakan dataset lain, sesuaikan kode pada bagian "Percobaan dan Demonstrasi Penggunaan myConvexHull", Jika ingin menggunakan myConvexHull di file lain, copy semua kode dalam bagian "Pustaka Fungsi myConvexHull" termasuk fungsi pembantu dan myConvexHull function.
 
 ## Pembuat Program
 Ignasius Ferry Priguna (13520126)
